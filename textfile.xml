@@ -1,0 +1,78 @@
+<?xml version = "1.0" encoding="UTF-9"?>
+    <bookclub>
+        <title>Outlander</title>
+        <author>
+            <first name>Diana</first name>
+            <last name>Gabaldon</last name>
+            <age>71</age>
+        </author>
+   
+        <publisher>
+            <name>Delacorte Books</name>
+            <pages>850</pages>
+        </publisher>
+   
+        <timeperiod>18 century</timeperiod>
+        <location>Scotland</location>
+   
+        <main chatacters>
+            <character>
+                <name>Jamie Fraser</name>
+                <IsEvil>false</IsEvil>
+            </character>
+            <character>
+                <name>Claire fraser</name>
+                <IsEvil>false</IsEvil>
+            </character>
+            <character>
+                <name>Jack Randel</name>
+                <IsEvil>true</IsEvil>
+            </character>
+            <character>
+                <name>Stephen Bonnet</name>
+                <IsEvil>true</IsEvil>
+            </character>
+        </main characters>
+   
+        <filmed>true</filmed>
+        <seasons>7</seasons>
+    
+        <episodes>
+            <season_1>
+                <amount>16</amount>
+                <watched>true</watched>
+            </season_1>
+        
+            <season_2>
+                 <amount>13</amount>
+                 <watched>true</watched>
+            </season_2>
+
+            <season_3>
+                 <amount>13</amount>
+                 <watched>true</watched>
+            </season_3>
+       
+            <season_4>
+                 <amount>13</amount>
+                <watched>true</watched>
+            </season_4>
+    
+            <season_5>
+                <amount>12</amount>
+                <watched>true</watched>
+            </season_5>
+       
+            <season_6>
+                <amount>8</amount>
+                <watched>false</watched>
+            </season_6>
+      
+            <season_7>
+                <amount>0</amount>
+                <watched>false</watched>
+            </season_7>
+        </episodes>
+    </bookclub>
+</xml>
+
