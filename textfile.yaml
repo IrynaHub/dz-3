@@ -1,0 +1,32 @@
+bookclub:
+    title: Outlander
+    category: Fiction
+    author:
+        first name: Diana
+        last name: Gabaldon
+        age: 71
+    publisher:
+        name: Delacorte Books
+        page: 850
+        timeperiod: 18 century
+            Scotland
+    characters: [Jamie fraser, Claire Fraser, Jake Randel, Stephan Bonnet]
+    antiheroes:
+    - “Jake Randel”
+    - “Stephen Bonnet”
+    seasons: 7
+    episodes:
+        season_1: 16
+        watched: true
+        season_2: 13
+        watched: true
+        season_3: 13
+        watched: true
+        season_4: 13
+        watched: true
+        season_5: 12
+        watched: true
+        season_6: 8
+        watched: false
+        season_7: 0
+        watched: false
