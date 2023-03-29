@@ -1,0 +1,72 @@
+{
+    "book club":
+    [
+        {
+            "title": "Outlander",
+            "author":
+            {
+                "First name": "Diana",
+                "Last name": "Gabaldon",
+                "age": 71
+            },
+            "publisher":
+            {
+                "name": "Delacorte Books",
+                "pages": 850
+            },
+            "time period": "18 century",
+            "location": "Scotland",
+            "main characters":
+            [
+                {
+                    "name": "Jamie Fraser",
+                    "IsEvil": false
+                },
+                {
+                    "name": "Claire Fraser",
+                    "IsEvil": false
+                },
+                {
+                    "name": "Jack Randel",
+                    "IsEvil": true
+                },
+                {
+                    "name": "Stephen Bonnet",
+                    "IsEvil": true
+                }
+            ],
+            "seasons": 7,
+            "episodes":
+            [
+                {
+                    "season 1": 16,
+                    "watched": true
+                },
+                {
+                    "season 2": 13,
+                    "watched": true
+                },
+                {
+                    "season 3": 13,
+                    "watched": true
+                },
+                {
+                    "season 4": 13,
+                    "watched": true
+                },
+                {
+                    "season 5": 12,
+                    "watched": true
+                },
+                {
+                    "season 6": 8,
+                    "watched": false
+                },
+                {
+                    "season 7": 0,
+                    "watched": false
+                }
+            ]
+        }
+    ]
+}
