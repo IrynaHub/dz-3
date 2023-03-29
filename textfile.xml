@@ -15,7 +15,7 @@
         <timeperiod>18 century</timeperiod>
         <location>Scotland</location>
    
-        <main chatacters>
+        <main_chatacters>
             <character>
                 <name>Jamie Fraser</name>
                 <IsEvil>false</IsEvil>
@@ -32,7 +32,7 @@
                 <name>Stephen Bonnet</name>
                 <IsEvil>true</IsEvil>
             </character>
-        </main characters>
+        </main_characters>
    
         <filmed>true</filmed>
         <seasons>7</seasons>
