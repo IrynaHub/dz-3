@@ -16,17 +16,17 @@ bookclub:
     - “Stephen Bonnet”
     seasons: 7
     episodes:
-        season_1: 16
+        - season_1: 16
         watched: true
-        season_2: 13
+        - season_2: 13
         watched: true
-        season_3: 13
+        - season_3: 13
         watched: true
-        season_4: 13
+        - season_4: 13
         watched: true
-        season_5: 12
+        - season_5: 12
         watched: true
-        season_6: 8
+        - season_6: 8
         watched: false
-        season_7: 0
+        - season_7: 0
         watched: false
